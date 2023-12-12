@@ -1,4 +1,4 @@
-# jav-1 Repository Name
+# jav-1 - Demo
 This is my first Git Repository
 <br>
 Author: Javaid 
